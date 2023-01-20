@@ -1,47 +1,4 @@
 body {
   font-family: "Oswald", sans-serif;
-}
-.header-section {
-  display: flex;
-  background-color: bisque;
-  background-image: url("../images/header_bg.png"),
-    url("../images/developer.png");
-  background-repeat: no-repeat;
-  background-position: bottom right, bottom left;
-  padding: 50px;
-}
-.down-button {
-  text-decoration: none;
-  color: black;
-  font-weight: 400;
-  background-color: coral;
-  border-radius: 5px;
-  padding: 5px;
-}
-.header-section-width {
-  width: 50%;
-  padding-left: 5.6%;
-  padding-top: 10%;
-}
-.nav-ul {
-  display: flex;
-}
-.main-navbar {
-  background-color: aqua;
-  padding-left: 1100px;
-}
-.nav-li {
-  list-style: none;
-  padding-right: 50px;
-}
-
-.nav-button {
-    text-align: center;
-  text-decoration: none;
-  color: black;
-  font-weight: 400;
-  background-color: coral;
-  border-radius: 5px;
-  height: auto;
-  width: 100px;
+  margin: 0px;
 }
